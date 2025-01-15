@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vcenter=true&width=1000&size=35&lines=Be+Welcome+:\);My+name+is+Samuel+Mendes;I'm+Graduated+Systems+Development)](https://git.io/typing-svg)
 
 <div align="center" dir="auto">
